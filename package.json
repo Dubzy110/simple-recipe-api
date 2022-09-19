@@ -1,0 +1,24 @@
+{
+  "name": "simple-recipe-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dubzy110/simple-recipe-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dubzy110/simple-recipe-api/issues"
+  },
+  "homepage": "https://github.com/Dubzy110/simple-recipe-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
